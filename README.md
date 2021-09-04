@@ -10,7 +10,7 @@ As the mouse cursor moves, the dot skteching traces display.
 
 ## Languages
 html and the javascript library, Processing.js, are used. The javascript function, setup(), defines the window 
-panel size; the functio, draw(), define the drawing funcionality , which responds to the mouse cursor's movement
-to do drawing/skecthing.
+panel size; the function, draw(), define the drawing funcionality , which responds to the mouse cursor's movement
+to do drawing.
 
 
