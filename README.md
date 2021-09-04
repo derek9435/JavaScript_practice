@@ -1,7 +1,7 @@
 # JavaScript_practice
 Old javascript files
 
-This program, project-07-hello.html, is using the javascript librraary, Processsing.js, to do
+This program, project-07-hello.html, is using the javascript libraary, Processsing.js, to do
 simple pen drawing
 
 ## How It works
