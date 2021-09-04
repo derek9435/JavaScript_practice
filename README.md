@@ -1,5 +1,5 @@
 # JavaScript_practice
-Old javascript files
+javascript libary usage done one year before
 
 This program, project-07-hello.html, is using the javascript libraary, Processsing.js, to do
 simple pen drawing
